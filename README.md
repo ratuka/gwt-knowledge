@@ -89,7 +89,7 @@ setTimeout(function(){
 
 ## Miscellaneous
 * [Reduce compile time (also relevant for non gxt projects)](https://www.sencha.com/blog/how-to-reduce-compilation-time-for-your-gxt-projects/)
-* [Curated list of GWT related news, links, blogs and libraries (by awesomegwt)](https://gwt.zeef.com/awesomegwt)
+* [Curated list of GWT related news, links, blogs and libraries (by awesomegwt)](https://web.archive.org/web/20240305083731/https://gwt.zeef.com/awesomegwt)
 * [Modern GWT, first steps (article by Ignacio Baca Moreno-Torres)](https://dev.to/ibaca/modern-gwt-first-steps-509k)
 * [Modern GWT, Introduction (slides from Dr. Lofi Dewanto)](https://docs.google.com/presentation/d/1cr-rYGz58ngC6sgOy8c7oErhaj0VdLUHk9Y5mcvgrP0/edit#slide=id.p)
 * [Modern GWT / J2CL Transpiler for Dummies (padlet from Dr. Lofi Dewanto)](https://padlet.com/lofidewanto/gwtintro)
